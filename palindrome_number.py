@@ -1,9 +1,9 @@
 condi = True
 
 while condi:
-    Number = input("Enter the data  to check is  palindrome or not :")
+    Data = input("Enter the data  to check is  palindrome or not :")
 
-    if Number == Number[::-1]:
+    if Data == Data[::-1]:
         print("This is palindrome ")
     else:
         print("This is not a palindrome ")
