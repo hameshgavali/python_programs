@@ -1,4 +1,5 @@
 # the given list contains duplicates
+
 mylist = [5, 3, 5, 2, 1, 6, 6, 4]  # the original list of integers with duplicates
 
 newlist = []  # empty list to hold unique elements from the list
